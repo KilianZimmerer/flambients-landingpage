@@ -16,18 +16,18 @@ const Hero: FunctionComponent<HeroProps> = ({ language }) => {
   return (
     <div className="container-fluid decilo-background">
       <div className="row align-items-start" style={{ height: "100%" }}>
-      <div className="col align-self-start">
+      <div className="col align-self-start ps-4">
         <span
-          style={{
-        color: "#fff",
-        fontSize: "clamp(2.5rem, 10vw, 10rem)",
-        letterSpacing: "0.05em",
-        wordBreak: "break-word",
-        display: "inline-block",
-        lineHeight: 1.1,
-          }}
+        style={{
+          color: "#fff",
+          fontSize: "clamp(2.5rem, 10vw, 10rem)",
+          letterSpacing: "0.05em",
+          wordBreak: "break-word",
+          display: "inline-block",
+          lineHeight: 1.1,
+        }}
         >
-          flambients.
+        flambients.
         </span>
       </div>
       {/* <div className="col align-self-end p-1">

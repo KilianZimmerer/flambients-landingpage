@@ -6,7 +6,7 @@ export interface AbstractData {
 
 const Abstract: FunctionComponent<AbstractData> = ({ abstractText }) => {
   return (
-    <div className="container-fluid decilo-background pt-5 ps-3">
+    <div className="container-fluid decilo-background pt-5">
           <p className="text-light">{abstractText}</p>
       </div>
   );
