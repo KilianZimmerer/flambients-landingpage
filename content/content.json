@@ -1,0 +1,92 @@
+{
+  "de": {
+    "Navbar": {
+      "buttonDE": "de",
+      "buttonEN": "en"
+    },
+    "Abstract": {
+      "abstractText": "Die besten Flammkuchen und Pizzen in Berlin."
+    },
+    "Footer": {
+      "imprintLinkText": "Impressum",
+      "disclaimerLinkText": "Datenschutzerklärung",
+      "cookiePolicyLinkText": "Cookie Policy",
+      "contactLinkText": "Kontakt",
+      "githubLink": "",
+      "linkedinLink": "",
+      "instagramLink": "",
+      "facebookLink": ""
+    },
+    "Imprint": {
+      "header": "Impressum",
+      "address": {
+        "company": "NAME NACHNAME",
+        "street": "Adresse",
+        "city": "XXXX Berlin",
+        "country": "Deutschland"
+      },
+      "contact": {
+        "phone": "Telefon: 030 xxx xxxx",
+        "fax": "Fax: 030 xxx xxx"
+      },
+      "email": {
+        "email": "E-Mail: emailadresse"
+      },
+      "taxId": {
+        "taxId": "Umsatzsteuer-ID: XXXX"
+      },
+      "registerDetails": {
+        "tradeRegister": "Handelsregister: Amtsgericht Charlottenburg (Berlin)",
+        "referenceNumber": "Aktenzeichen: HRB 241216 B"
+      },
+      "managingDirector": {
+        "managingDirector": "Geschäftsführer: XXXX"
+      }
+    }
+  },
+  "en": {
+    "Navbar": {
+      "buttonDE": "de",
+      "buttonEN": "en"
+    },
+    "Abstract": {
+      "abstractText": "The best Tarte Flambée and Pizza in Berlin."
+    },
+    "Footer": {
+      "imprintLinkText": "Imprint",
+      "disclaimerLinkText": "Privacy",
+      "cookiePolicyLinkText": "Cookie Policy",
+      "contactLinkText": "Contact",
+      "githubLink": "",
+      "linkedinLink": "",
+      "instagramLink": "",
+      "facebookLink": ""
+    },
+    "Imprint": {
+      "header": "Imprint",
+      "address": {
+        "company": "NAME NACHNAME",
+        "street": "Adresse",
+        "city": "XXXXX Berlin",
+        "country": "Germany"
+      },
+      "contact": {
+        "phone": "Phone: 030 xxx xxxx",
+        "fax": "Fax: 030 xxx xxx"
+      },
+      "email": {
+        "email": "E-Mail: emailadresse"
+      },
+      "taxId": {
+        "taxId": "Tax ID: XXXXXX"
+      },
+      "registerDetails": {
+        "tradeRegister": "Trade Register: XXXX",
+        "referenceNumber": "File Reference: HRB 241216 B"
+      },
+      "managingDirector": {
+        "managingDirector": "Managing Director: XXXX"
+      }
+    }
+  }
+}
