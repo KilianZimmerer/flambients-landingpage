@@ -34,8 +34,8 @@ const Home: FunctionComponent = () => {
       <Hero language={language} />
       <div className="container-fluid decilo-background" style={{ minHeight: "calc(100vh - 80px)" }}>
         <Abstract {...localizedContent["Abstract"]} />
-        {/* Fill remaining space with devilo-background */}
-        <div style={{ flex: 1, background: "var(--devilo-background)" }} />
+        {/* Fill remaining space with decilo-background */}
+        <div style={{ flex: 1, background: "var(--decilo-background)" }} />
       </div>
       {/* Footer always at the bottom */}
       <div style={{ position: "fixed", left: 0, bottom: 0, width: "100%", zIndex: 100 }}>
